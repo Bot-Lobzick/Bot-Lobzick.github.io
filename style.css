@@ -1,0 +1,152 @@
+body {
+	/*background-image: url("file:///C:/Users/Администратор/Documents/Bot Lobzick/img/body-background1.png");*/
+	background-size: 1500px 1000px;
+	cursor: url("file:///C://Users/Администратор/Documents/Bot Lobzick/img/lobzick-cursor3.cur"), default;
+}
+
+.main {
+	/*background-image: url("file:///C:/Users/Администратор/Documents/Bot Lobzick/img/Lobzick1.png");*/
+	background-image: url("file:///C:/Users/Администратор/Documents/Bot Lobzick/img/uzor1.jpg");
+	background-size: 1500px 800px;
+}
+
+footer {
+	color: rgba(150, 150, 150, 0.7);
+	background-image: url("file:///C:/Users/Администратор/Documents/Bot Lobzick/img/footer-background3.png");
+	background-size: 1400 300;
+}
+
+.section {
+	padding-top: 100px;
+}
+
+.header {
+	font-size: 60px;
+	text-align: center;
+	padding: 20px;
+	/*background-color: #403aff;*/
+	color: #a0a000;
+	background-image: url("https://sun9-12.userapi.com/c846220/v846220640/1dbcd7/xEYZKpGe0N4.jpg");
+}
+
+.welcome {
+	margin-left: 475px;
+}
+
+.shop {
+	margin-left: 400px;
+}
+
+h1 {
+	/*text-align: center;*/
+	font-size: 35px;
+}
+
+h2 {
+	margin: 450px;
+}
+
+a {
+	color: #aa6600;
+}
+
+button {
+	float: right;
+	margin-right: 25px;
+	cursor: pointer;
+}
+
+.red-block {
+	background-color: #ffff00;
+	padding-left: 200px;
+	margin-right: 1300px;
+	border: 200px;
+}
+
+.center {
+	text-align: center;
+	
+}
+
+.yellow-line {
+	background-image: url("file:///C:/Users/Администратор/Documents/Bot Lobzick/img/yellow-line.png");
+	background-size: 1500px;
+	padding-left: 140px;
+}
+
+.yellow-line p {
+	
+	background-size: 1500px;
+	padding-left: 20px;
+}
+
+li, p, sup {
+	font-size: 18px;
+}
+
+.light-theme {
+	background-image: url("file:///C:/Users/Администратор/Documents/Bot Lobzick/img/body-background1.png");
+	background-size: 1500px 1000px;
+}
+
+.dark-theme {
+	background-image: url("file:///C:/Users/Администратор/Documents/Bot Lobzick/img/uzor2.png");
+	background-color: #151515;
+	color: #dddddd;
+}
+
+.tel {
+	text-decoration: underline red;
+}
+
+.id {
+	text-decoration: underline blue;
+}
+
+.contact {
+	margin-left: 150px;
+	padding-top: 20px;
+	font-size: 25px;
+}
+
+.contact2 {
+	line-height: 5px;
+	margin-left: 5px;
+}
+
+.help {
+	cursor: help;
+}
+
+.help a {
+	cursor: inherit;
+}
+
+.button-light {
+	/*margin-left: 1050px;*/
+	background-color: #6666ff;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top: 5px;
+	border-radius: 50%;
+	color: white;
+	text-align: center;
+	vertical-align: top;
+}
+
+.button-dark {
+	/*margin-left: 1050px;*/
+	background-color: #8888ff;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top: 5px;
+	border-radius: 50%;
+	color: 151515;
+	text-align: center;
+	vertical-align: top;
+}
+
+.theme {
+	
+}
+
