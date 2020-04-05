@@ -50,6 +50,11 @@ a {
 	color: #aa6600;
 }
 
+ul {
+	list-style-image: none;
+	list-style-type: square;
+}
+
 button {
 	float: right;
 	margin-right: 25px;
