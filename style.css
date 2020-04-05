@@ -1,18 +1,18 @@
 body {
-	/*background-image: url("file:///C:/Users/Администратор/Documents/Bot Lobzick/img/body-background1.png");*/
+	/*background-image: url("img/body-background1.png");*/
 	background-size: 1500px 1000px;
-	cursor: url("file:///C://Users/Администратор/Documents/Bot Lobzick/img/lobzick-cursor3.cur"), default;
+	cursor: url("img/lobzick-cursor3.cur"), default;
 }
 
 .main {
-	/*background-image: url("file:///C:/Users/Администратор/Documents/Bot Lobzick/img/Lobzick1.png");*/
-	background-image: url("file:///C:/Users/Администратор/Documents/Bot Lobzick/img/uzor1.jpg");
+	/*background-image: url("img/Lobzick1.png");*/
+	background-image: url("img/uzor1.jpg");
 	background-size: 1500px 800px;
 }
 
 footer {
 	color: rgba(150, 150, 150, 0.7);
-	background-image: url("file:///C:/Users/Администратор/Documents/Bot Lobzick/img/footer-background3.png");
+	background-image: url("img/footer-background3.png");
 	background-size: 1400 300;
 }
 
@@ -69,7 +69,7 @@ button {
 }
 
 .yellow-line {
-	background-image: url("file:///C:/Users/Администратор/Documents/Bot Lobzick/img/yellow-line.png");
+	background-image: url("img/yellow-line.png");
 	background-size: 1500px;
 	padding-left: 140px;
 }
@@ -85,12 +85,12 @@ li, p, sup {
 }
 
 .light-theme {
-	background-image: url("file:///C:/Users/Администратор/Documents/Bot Lobzick/img/body-background1.png");
+	background-image: url("img/body-background1.png");
 	background-size: 1500px 1000px;
 }
 
 .dark-theme {
-	background-image: url("file:///C:/Users/Администратор/Documents/Bot Lobzick/img/uzor2.png");
+	background-image: url("img/uzor2.png");
 	background-color: #151515;
 	color: #dddddd;
 }
